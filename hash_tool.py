@@ -167,7 +167,6 @@ def menu():
                                 os.system('color c')
                                 print """Select your tool :
 1) Password Encryptor
-2) PasswordFile Encryptor
 3) Back
 """
                                 que = int(raw_input("pentest_tools >> "))
@@ -222,8 +221,6 @@ def menu():
                                                                 time.sleep(1)
                                                                 menu()
 
-                                elif que == 2:
-                                                pass
                                 elif que == 3:
                                                 menu()
                                 else:
