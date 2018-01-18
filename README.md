@@ -6,6 +6,6 @@ can encrypt hash whit md5 and sha-256 and ....
 
 and can finding type of hash 
 
-for python 2.x
+for python 2.x and for Windows 
 
 no BUG :D
